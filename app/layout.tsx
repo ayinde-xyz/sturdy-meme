@@ -16,7 +16,7 @@ export const metadata: Metadata = {
   title: "The Chrome Green Club",
   description: "Official website of The Chrome Green Club",
   metadataBase: new URL(`https://${process.env.VERCEL_URL}`),
-  authors: { name: "Ayinde AbdurRahman" },
+  authors: { name: "Ayinde AbdulRahman" },
   openGraph: {
     title: "The Chrome Green Club",
     description: "Official website of The Chrome Green Club",
